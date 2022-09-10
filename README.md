@@ -1,2 +1,2 @@
-# Assignments_Hypothesis-
+# Assignments_Hypothesis
 Performed hypothesis testing
